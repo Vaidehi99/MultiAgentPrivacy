@@ -1,0 +1,16 @@
+streamlit
+numpy
+scipy
+transformers>=4.26.1
+torch
+vllm==0.9.1
+black
+python-dotenv==1.0.0
+chromadb
+scipy
+scikit-learn
+matplotlib
+seaborn
+accelerate
+bitsandbytes
+pydantic==1.10.13
