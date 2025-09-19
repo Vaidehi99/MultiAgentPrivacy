@@ -2,7 +2,7 @@
 
 This repository includes code for the paper:
 
-[The Sum Leaks More Than Its Parts: Compositional Privacy Risks and Mitigations in Multi-Agent Collaboration](https://github.com/Vaidehi99/MultiAgentPrivacy)
+[The Sum Leaks More Than Its Parts: Compositional Privacy Risks and Mitigations in Multi-Agent Collaboration](https://arxiv.org/abs/2509.14284)
 
 [Vaidehi Patil](https://vaidehi99.github.io/),  [Elias Stengel-Eskin](https://esteng.github.io/) and [Mohit Bansal](https://www.cs.unc.edu/~mbansal/)
 
