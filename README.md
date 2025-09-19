@@ -119,14 +119,14 @@ These shell scripts automate defense runs across models the dataset:
 If you find this work useful, please cite:  
 
 ```bibtex
-@misc{patil2025thesumleaksmorethanitsparts,
-      title={The Sum Leaks More Than Its Parts: \\Compositional Privacy Risks and Mitigations in Multi-Agent Collaboration}, 
+@misc{patil2025sumleakspartscompositional,
+      title={The Sum Leaks More Than Its Parts: Compositional Privacy Risks and Mitigations in Multi-Agent Collaboration}, 
       author={Vaidehi Patil and Elias Stengel-Eskin and Mohit Bansal},
       year={2025},
-      eprint={2509.xx},
+      eprint={2509.14284},
       archivePrefix={arXiv},
-      primaryClass={cs.AI},
-      url={}, 
+      primaryClass={cs.CR},
+      url={https://arxiv.org/abs/2509.14284}, 
 }
 ```
 ---
