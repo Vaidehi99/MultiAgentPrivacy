@@ -15,11 +15,7 @@ attack_model = "Qwen/Qwen3-32B"
 os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = ""
 
 # Initialize client
-client = genai.Client(
-    vertexai=True,
-    project="western-triode-445220-g5",
-    location="us-east1",
-)
+client = genai.Client()
 
 # Example: global counters for usage
 total_input_tokens = 0
